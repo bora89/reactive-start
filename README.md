@@ -26,6 +26,8 @@ Open a browser at http://localhost:3000
 npm run build
 ```
 
+See the `dist` directory under a project root
+
 ### Directory structure 
 ```
 |____src
