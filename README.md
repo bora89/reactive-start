@@ -19,6 +19,8 @@ npm install
 npm start
 ```
 
+Open a browser at http://localhost:3000
+
 ### Build / Production mode
 ```
 npm run build
