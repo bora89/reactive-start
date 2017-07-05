@@ -1,8 +1,10 @@
+@import "~bootstrap/scss/bootstrap-grid";
+@import "~bootstrap/scss/_mixins";
+@import "~bootstrap/scss/_utilities";
+
 body {
   font-family: Helvetica Neue, Helvetica, Arial sans-serif;
-  p {
-    margin: 16px auto;
-  }
+
   #root {
     height: 100%;
   }
